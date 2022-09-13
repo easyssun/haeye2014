@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌱 I'm second grade in Gachon Univ.
+💬 I'm interested: Computer Vision, NLP, Metaverse
+📫 How to reach me: haeye2014@gachon.ac.kr
+
 <!--
 **haeye2014/haeye2014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
