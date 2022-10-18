@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 🌱 I'm second grade in Gachon Univ.
 
